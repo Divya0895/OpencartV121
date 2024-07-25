@@ -1,9 +1,0 @@
-17:27:33.138 [main] INFO  testCases.TC_01AccountRegistrationTest - ***** Starting TC_01AccountRegistrationTest *****
-17:27:33.152 [main] DEBUG testCases.TC_01AccountRegistrationTest - Application logs started
-17:27:35.224 [main] INFO  testCases.TC_01AccountRegistrationTest - Clicked on my account link
-17:27:37.544 [main] INFO  testCases.TC_01AccountRegistrationTest - Clicked on my register link
-17:27:37.544 [main] INFO  testCases.TC_01AccountRegistrationTest - Entering customer details
-17:27:43.277 [main] INFO  testCases.TC_01AccountRegistrationTest - clicked on continue
-17:27:43.405 [main] INFO  testCases.TC_01AccountRegistrationTest - Validating expected message
-17:27:43.422 [main] DEBUG testCases.TC_01AccountRegistrationTest - Application logs ends
-17:27:43.431 [main] INFO  testCases.TC_01AccountRegistrationTest - ***** Finished TC_01AccountRegistrationTest *****
