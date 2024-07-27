@@ -1,12 +1,13 @@
-D:\ST\ OpencartV121\src\test\java\utilities\ExtentReportManager.java
 D:\ST\ OpencartV121\src\test\java\PageObjects\AccountRegistrationPage.java
-D:\ST\ OpencartV121\src\test\java\PageObjects\MyAccountPage.java
 D:\ST\ OpencartV121\src\test\java\testCases\TC_01AccountRegistrationTest.java
+D:\ST\ OpencartV121\src\test\java\testCases\TC_02LoginTest.java
+D:\ST\ OpencartV121\src\test\java\PageObjects\LoginPage.java
+D:\ST\ OpencartV121\src\test\java\utilities\ExtentReportManager.java
+D:\ST\ OpencartV121\src\test\java\PageObjects\MyAccountPage.java
 D:\ST\ OpencartV121\src\test\java\utilities\ExcelUtility.java
 D:\ST\ OpencartV121\src\test\java\testCases\TC_03LoginDDT.java
 D:\ST\ OpencartV121\src\test\java\testBase\BaseClass.java
-D:\ST\ OpencartV121\src\test\java\testCases\TC_02LoginTest.java
 D:\ST\ OpencartV121\src\test\java\PageObjects\BasePage.java
+D:\ST\ OpencartV121\src\test\java\testCases\TC_04Search.java
 D:\ST\ OpencartV121\src\test\java\utilities\DataProviders.java
 D:\ST\ OpencartV121\src\test\java\PageObjects\HomePage.java
-D:\ST\ OpencartV121\src\test\java\PageObjects\LoginPage.java
